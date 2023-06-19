@@ -1,0 +1,40 @@
+2023-06-19 12:43:23 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Cannot find module 'node_modules/picgo-plugin-web-uploader'
+Require stack:
+- /home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Ut.getPlugin (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:42787)
+    at Ut.registerPlugin (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:41910)
+    at Ut.load (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:41584)
+    at $t.init (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:71455)
+    at new $t (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:70700)
+    at file:///home/meowrain/shell/picgo-test/index.js:7:15
+-------Error Stack End------- 
+2023-06-19 12:43:23 [PicGo INFO] Before transform 
+2023-06-19 12:43:23 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-06-19 12:43:27 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Cannot find module 'node_modules/picgo-plugin-web-uploader'
+Require stack:
+- /home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Ut.getPlugin (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:42787)
+    at Ut.registerPlugin (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:41910)
+    at Ut.load (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:41584)
+    at $t.init (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:71455)
+    at new $t (/home/meowrain/shell/picgo-test/node_modules/picgo/dist/index.cjs.js:1:70700)
+    at file:///home/meowrain/shell/picgo-test/index.js:7:15
+-------Error Stack End------- 
+2023-06-19 12:43:27 [PicGo INFO] Before transform 
+2023-06-19 12:43:27 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-06-19 12:43:27 [PicGo INFO] Before upload 
+2023-06-19 12:43:27 [PicGo INFO] Uploading... Current uploader is [web-uploader] 
+2023-06-19 12:43:28 [PicGo SUCCESS] 
+https://static.meowrain.cn/i/2023/06/19/kk7zj6-3.webp 

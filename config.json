@@ -1,0 +1,19 @@
+{
+  "picBed": {
+    "uploader": "web-uploader",
+    "current": "web-uploader",
+    "web-uploader": {
+      "url": "",
+      "paramName": "",
+      "jsonPath": "",
+      "customHeader": "",
+      "customBody": ""
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-web-uploader": true
+  },
+  "settings": {
+    "language": "zh-CN"
+  }
+}
